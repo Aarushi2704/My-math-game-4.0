@@ -1,1 +1,3 @@
-# My-math-game-4.0
+# My game 3.0
+Code for maths game
+
